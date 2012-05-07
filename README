@@ -1,0 +1,5 @@
+## Introduction
+
+This is a Google Web Toolkit demo project created by gwt-maven-plugin 2.4.
+
+It's purpose is to demonstrate how to configure Maven3 and gwt-maven-plugin to test, run, package a GWT project. To see more, please visit <http://www.cherrot.com/2012/04/developing-gwt-project-using-maven3-tutorial>.The tutorial is written in Chinese. If you have any question, feel free to ask me in either Chinese or English :)
