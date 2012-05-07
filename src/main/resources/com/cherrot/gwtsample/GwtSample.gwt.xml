@@ -23,4 +23,12 @@
   <source path='client' />
   <source path='shared' />
 
+  <!--i18n configuration, http://URL&locale=zh to test the i18n-->
+  <!-- English language, independent of country -->
+  <extend-property name="locale" values="en"/>
+  <!--Chinese language-->
+  <!--<extend-property name="locale" values="zh_CN"/>-->
+  <extend-property name="locale" values="zh"/>
+  <!--Set default locale-->
+  <set-property-fallback name="locale" value="zh"/>
 </module>
