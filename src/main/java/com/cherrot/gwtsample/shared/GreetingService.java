@@ -1,4 +1,4 @@
-package com.cherrot.gwtsample.client;
+package com.cherrot.gwtsample.shared;
 
 import com.google.gwt.user.client.rpc.RemoteService;
 import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;

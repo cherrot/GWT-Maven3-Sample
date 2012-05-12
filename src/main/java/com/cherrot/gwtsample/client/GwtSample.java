@@ -1,6 +1,8 @@
 package com.cherrot.gwtsample.client;
 
 import com.cherrot.gwtsample.shared.FieldVerifier;
+import com.cherrot.gwtsample.shared.GreetingService;
+import com.cherrot.gwtsample.shared.GreetingServiceAsync;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;

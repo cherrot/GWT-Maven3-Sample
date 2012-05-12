@@ -1,6 +1,6 @@
 package com.cherrot.gwtsample.server;
 
-import com.cherrot.gwtsample.client.GreetingService;
+import com.cherrot.gwtsample.shared.GreetingService;
 import com.cherrot.gwtsample.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
